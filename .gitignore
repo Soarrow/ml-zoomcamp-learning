@@ -41,6 +41,9 @@ cover/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Downloaded practice data (auto-fetched by the module 02 walkthrough)
+02-regression/data.csv
+
 # IPython
 profile_default/
 ipython_config.py

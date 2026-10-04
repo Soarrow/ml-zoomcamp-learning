@@ -17,7 +17,7 @@ pip install -r requirements.txt
 | Module | Topic | Work |
 | --- | --- | --- |
 | 01-intro | Introduction to Machine Learning | [homework](01-intro/homework.ipynb) |
-| 02-regression | Machine Learning for Regression | |
+| 02-regression | Machine Learning for Regression | [homework](02-regression/homework.ipynb) |
 | 03-classification | Machine Learning for Classification | |
 | 04-evaluation | Evaluation Metrics for Classification | |
 | 05-deployment | Deploying Machine Learning Models | |
